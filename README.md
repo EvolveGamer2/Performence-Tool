@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/d41666ba-7160-4c94-b12f-e11da40208c7)
+💥PERFORMENCE TOOL💥
 
-Helps with LAG also if you want 60hz than 72hz
-(I added 60hz due to it being easy just to activate on it)
+🎉PERFORMENCE TOOL is a GUI that helps with lag or if you want to make your game a potato the file describes the features
+If you have any issues go to issues and add your issue in there anyway enjoy🎉
+
+MADE BY EVOLVE :)
